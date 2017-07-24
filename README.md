@@ -1,10 +1,10 @@
-#ios-ZLActionView
+# ios-ZLActionView
 自定义提示框
 
-#项目背景
+# 项目背景
 需求:app中文章详情页面。用户阅读文章超过设定好的分钟可以奖励积分，到了奖励时间时从底部弹出一个 黑色背景（有一定透明度）白色文字的提示框，显示两秒自动消失，文字显示的最大宽度已做自适应，适合显示少量的提示内容，建议不超过30个字
 
-#效果
+# 效果
 
 
 ![image](http://otl186dvj.bkt.clouddn.com/ZLActionView.gif)
